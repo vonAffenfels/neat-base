@@ -14,7 +14,6 @@
     "license": "ISC",
     "dependencies": {
         "merge": "^1.2.0",
-        "mock-express-request": "^0.1.1",
         "progress": "^1.1.8",
         "proper-lockfile": "^2.0.0",
         "underscore": "^1.8.3"
