@@ -6,6 +6,10 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nexum/neat-base.git"
+    },
     "author": "Dominik Kienzler <d.kienzler@dominik-kienzler.de>",
     "license": "ISC",
     "dependencies": {
