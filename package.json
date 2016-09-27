@@ -1,28 +1,28 @@
 {
-    "name": "neat-base",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Nexum/neat-base.git"
-    },
-    "author": "Dominik Kienzler <d.kienzler@dominik-kienzler.de>",
-    "license": "ISC",
-    "dependencies": {
-        "merge": "^1.2.0",
-        "progress": "^1.1.8",
-        "proper-lockfile": "^2.0.0",
-        "underscore": "^1.8.3"
-    },
-    "peerDependencies": {
-        "ape-status": "^1.1.2",
-        "bluebird": "^3.4.6",
-        "i18n": "^0.8.3",
-        "moment": "^2.15.1",
-        "winston": "^2.2.0"
-    }
+  "name": "neat-base",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexum/neat-base.git"
+  },
+  "author": "Dominik Kienzler <d.kienzler@dominik-kienzler.de>",
+  "license": "ISC",
+  "dependencies": {
+    "merge": "^1.2.0",
+    "progress": "^1.1.8",
+    "proper-lockfile": "^2.0.0",
+    "underscore": "^1.8.3"
+  },
+  "peerDependencies": {
+    "ape-status": "^1.1.2",
+    "bluebird": "^3.4.6",
+    "i18n": "^0.8.3",
+    "moment": "^2.15.1",
+    "winston": "^2.2.0"
+  }
 }
