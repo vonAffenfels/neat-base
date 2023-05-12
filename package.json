@@ -1,6 +1,6 @@
 {
   "name": "neat-base",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nexum/neat-base.git"
+    "url": "git+https://github.com/vonAffenfels/neat-base.git"
   },
   "author": "Dominik Kienzler <d.kienzler@dominik-kienzler.de>",
   "license": "ISC",
